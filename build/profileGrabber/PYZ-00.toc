@@ -1,4 +1,5 @@
-('D:\\DEV\\Profile Grabber\\build\\profileGrabber\\PYZ-00.pyz',
+('C:\\Users\\uiv55706\\OneDrive - Vitesco Technologies\\DEV\\Profile '
+ 'Grabber\\build\\profileGrabber\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\uiv55706\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
